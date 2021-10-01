@@ -57,7 +57,6 @@
           }
         }
       }
-      console.log(this.tiles);
     }
 
     setCanvas() {
